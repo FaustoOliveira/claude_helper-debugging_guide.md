@@ -1,4 +1,4 @@
-# claude_helper-debugging_guide.md
+
 
 # Claude Debugging Guide
 
@@ -18,7 +18,11 @@ Stack:
 3 – Vue / TypeScript
 4 – Node / Express
 5 – anderer Stack (kurz nennen)
-
+6 - Linux /bash script
+7 - Docker
+8 - Kubernetes
+9 - Terraform
+10 - Jenkins 
 Modus:
 J – ich will es verstehen (Tipps, Erklärungen, ich probiere selbst)
 N – gib mir die Lösung (ich bin im Stress)
@@ -73,6 +77,11 @@ Beispiele je Stack:
 - TypeScript: https://www.typescriptlang.org/docs/
 - RxJS: https://rxjs.dev/api
 - Node / Express: https://nodejs.org/docs/latest/api/
+- docker / https://docs.docker.com/docker-hub/
+- Linux / https://devdocs.io/bash/
+- Kubernetes / https://kubernetes.io/docs/home/
+- Teraform / https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs 
+- Jenkins / https://www.jenkins.io/doc/
 
 Format:
 ```
